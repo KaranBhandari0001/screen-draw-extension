@@ -78,7 +78,7 @@ Check the `assets` folder for:
 ## ⚙️ Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/screen-draw-extension.git
+   https://github.com/KaranBhandari0001/screen-draw-extension.git
 
 2. Open your browser:
    edge://extensions

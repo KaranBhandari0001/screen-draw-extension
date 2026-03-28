@@ -80,7 +80,7 @@ Check the `assets` folder for:
 1. Clone the repository:
    https://github.com/KaranBhandari0001/screen-draw-extension.git
 
-2. Open your browser:
+2. Open your browser(chrome,edge,firefox...etc):
    edge://extensions
 
 3. Enable Developer Mode

@@ -110,4 +110,4 @@ Check the `assets` folder for:
 
 ## 🙌 Author
 
-Made with ❤️ to solve real-life problems during screen sharing.
+Made with ❤️ to solve real-life problems during screen sharing...
